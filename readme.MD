@@ -1,7 +1,7 @@
-Async resquest
+Async requests
 =======
 
-Create new resquest
+Create new request
 --------
 
 ```php
@@ -13,7 +13,7 @@ $promise[] = $req::Put('https://httpbin.org/put'); // CUSTOM method
 
 ```
 
-Run all resquest
+Run all request
 --------
 
 ```php
