@@ -2,6 +2,22 @@
     "name": "mateodioev/async-curl-requests",
     "description": "Multi requests async with php",
     "type": "project",
+    "keywords": [
+        "curl",
+        "http",
+        "async"
+    ],
+    "homepage": "https://github.com/Mateodioev/req-async",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Mateodioev",
+            "homepage": "https://github.com/Mateodioev/"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0.0"
+    },
     "autoload": {
         "psr-4": {
             "Async\\": "src/"
@@ -9,5 +25,10 @@
     },
     "config": {
         "optimize-autoloader": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1.x-dev"
+        }
     }
 }
