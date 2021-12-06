@@ -26,12 +26,12 @@ Installation
 ### Install source from GitHub
 To install the source code:
 
-    $ git clone https://github.com/Mateodioev/async-php.git
+    $ git clone https://github.com/Mateodioev/req-async.git
 
 
 ### Install from Composer
 
-    $ composer require mateodioev/async-curl-requests
+    $ composer create-project mateodioev/async-curl-requests
 
 And include it in your scripts:
 
