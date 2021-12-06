@@ -1,0 +1,13 @@
+{
+    "name": "mateodioev/async-curl-requests",
+    "description": "Multi requests async with php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Async\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
