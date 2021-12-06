@@ -24,7 +24,8 @@ class Run {
    * Run all resquest with async
    * @return array
    */
-  final public static function Async(array $ch) {
+  final public static function Async(array $ch, $ms = 10) {
+    self::$ms = $ms;
     self::$Xch = $ch;
     self::$total = count($ch);
     self::MultiMakeStdClass(self::$total);
