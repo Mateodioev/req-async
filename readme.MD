@@ -34,7 +34,7 @@ $server = [
 $server = [
     "METHOD" => "CUSTOM",
     "SERVER" = "socks5h://socks-us.windscribe.com:1080",
-    "AUTH" => "w07lu4mt-r6vxjpb:ucxqefrm5h"
+    "AUTH" => "w07l3gbt-r6vxdfpb:ucxqefrada3h"
 ];
 
 # Webshare
