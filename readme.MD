@@ -140,7 +140,7 @@ To install the source code:
 
 ### Install from Composer
 
-    $ composer create-project mateodioev/async-curl-requests
+    $ composer require mateodioev/async-curl-requests:dev-master
 
 And include it in your scripts:
 
