@@ -1,5 +1,6 @@
 Async requests
 =======
+[![CodeFactor](https://www.codefactor.io/repository/github/mateodioev/req-async/badge)](https://www.codefactor.io/repository/github/mateodioev/req-async)
 
 Create new request
 --------
